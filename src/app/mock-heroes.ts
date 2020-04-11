@@ -1,7 +1,7 @@
 import { Hero } from './hero';
 
 export const HEROES: Hero[] = [
-  { id: 1.99, name: 'Sun in the morning', description: 'Bring a little sunshine into your day with our new sun in the moring bracelet! This features a sun charm with all the sunset colors to brighten up your day!' },
+  { id: 1.99, name: 'Sun in the morning', description: 'Bring a little sunshine into your day with our new sun in the moring bracelet! This features a sun charm with all the sunset colors to brighten up your day!', imageUrl: 'https://cdn.jsdelivr.net/gh/cweerasinha/tour-of-heros-chavi@master/src/app/assets/IMG_0387.jpg' },
   { id: 1.98, name: 'Pretty in Pink' ,description: 'hello' },
   { id: 1.97, name: 'Ocean Shore' , description:'Bring the icy blue waters and sunny days into your life! THis new bracelet features all the beautiul colors of the sea and helps you vision your perfect life' },
   { id: 2.02, name: 'Charlie Brown',description: 'from your favorite tv show, Charlie Brown is featured in our new bracelet! '  },
