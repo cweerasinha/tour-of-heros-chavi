@@ -37,7 +37,8 @@ export const HEROES: Hero[] = [
     id: 1.96,
     name: "Rainforest",
     description:
-      "Together we can make a difference in our world. By wearing this bracelet you are helping and raising awareness for the Rainforest Trust! "
+      "Together we can make a difference in our world. By wearing this bracelet you are helping and raising awareness for the Rainforest Trust! ",
+    imageUrl: "https://cdn.jsdelivr.net/gh/cweerasinha/tour-of-heros-chavi@master/src/app/assets/Rainforest.JPG"
   },
   {
     id: 3.99,
